@@ -9,7 +9,7 @@ import java.util.ArrayList;
  * @author Rahul
  *
  */
-public class WhetherData implements Subject {
+public class WeatherData implements Subject {
 
 	private ArrayList observers;
 	private float temperature;
